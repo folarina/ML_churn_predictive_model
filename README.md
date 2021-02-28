@@ -1,6 +1,6 @@
 # ML_churn_predictive_model
 
-**Every week I will publish a new project to demonstrate my skills and abilities to prospective employers. **
+Every week I will publish a new project to demonstrate my skills and abilities to prospective employers.
 
 This week, I decided to create a machine learning model with Tensorflow to predict where or not a costumer is likely to churn. 
 To check out the project open an .ipynb file.
